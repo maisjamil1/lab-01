@@ -1,3 +1,4 @@
+/* @media (max-width: 767px){
 .borders{
   border-left:1px solid black ;
   border-right:1px solid black ;
@@ -17,7 +18,7 @@
 .float-left{
   float: left;
 }
-
+  
 .clear{
   clear: both;
   display: block;
@@ -26,4 +27,43 @@
   width: 480px;
   margin: 0 auto;
 
+} 
+} */
+
+
+
+
+/* @media (min-width: 768 px) {
+  
+} */
+
+.float-desktop{
+  float: left;
+}
+
+/* .cleardesktop{
+  clear: both;
+  display: block;
+} */
+.con-desktop{
+  width: 480px;
+  margin: 0 auto;
+
+} 
+/* .borders{
+  border-left:1px solid black ;
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+}
+
+.divborder{
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+} */
+
+.d1,.d2,.d3,.d4{
+  width: 190px;
+  height:250px;
+  line-height: 250px;
+  display : inline-block
 }
