@@ -1,3 +1,5 @@
+/* @media (max-width: 767px){
+
 *{
   box-sizing: border-box;
 }
@@ -23,11 +25,63 @@ section{
   line-height: 125px;
  
 }
-
-
+.visible-pc{
+  display:none;
+}
+.con-pc{
+  display:none;
+}
 footer{
   width: 480px;
   height:80px;
   margin: 0 auto;
   line-height: 80px;
+}
+} */
+
+
+
+/* @media (min-width: 768 px) {
+  
+} */
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0 auto;
+  width:960px ;
+}
+header{
+  width: 960px;
+  height:100px;
+  line-height: 100px;  
+}
+article{
+  width: 200px;
+  height:600px;
+  line-height: 600px;
+  float: left;
+  display : inline-block
+}
+
+section{
+  width: 380px;
+  height:200px;
+  line-height: 200px;
+
+}
+footer{
+  width: 760px;
+  height:150px;
+  line-height: 150px;
+}
+.visible-pc{
+  display:block;
+  clear: both;
+}
+
+.con-pc{
+  float:left ;
+  width:760px
 }
