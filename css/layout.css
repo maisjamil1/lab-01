@@ -1,6 +1,7 @@
-/* @media (max-width: 767px){
+ @media (max-width: 767px){ 
 
-*{
+
+  *{
   box-sizing: border-box;
 }
 
@@ -25,25 +26,25 @@ section{
   line-height: 125px;
  
 }
-.visible-pc{
+/* .visible-pc{
   display:none;
 }
 .con-pc{
   display:none;
-}
+} */
 footer{
   width: 480px;
   height:80px;
   margin: 0 auto;
   line-height: 80px;
 }
-} */
+} 
 
 
 
-/* @media (min-width: 768 px) {
+@media (min-width: 768px) and (max-width :960px){ 
   
-} */
+ 
 *{
   box-sizing: border-box;
 }
@@ -84,4 +85,5 @@ footer{
 .con-pc{
   float:left ;
   width:760px
+}
 }

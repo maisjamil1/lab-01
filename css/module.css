@@ -1,4 +1,4 @@
-/* @media (max-width: 767px){
+ @media (max-width: 767px){ 
 .borders{
   border-left:1px solid black ;
   border-right:1px solid black ;
@@ -28,14 +28,14 @@
   margin: 0 auto;
 
 } 
-} */
+} 
 
 
 
 
-/* @media (min-width: 768 px) {
+@media (min-width: 768px) and (max-width : 960px){ 
   
-} */
+
 
 .float-desktop{
   float: left;
@@ -67,3 +67,4 @@
   line-height: 250px;
   display : inline-block
 }
+} 
