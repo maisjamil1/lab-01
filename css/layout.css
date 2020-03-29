@@ -26,12 +26,12 @@ section{
   line-height: 125px;
  
 }
-.visible-pc{
+/* .visible-pc{
   display:none;
 }
 .con-pc{
   display:none;
-}
+} */
 footer{
   width: 480px;
   height:80px;
