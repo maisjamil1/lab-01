@@ -1,6 +1,7 @@
-/* @media (max-width: 767px){
+ @media (max-width: 767px){ 
 
-*{
+
+  *{
   box-sizing: border-box;
 }
 
@@ -37,13 +38,13 @@ footer{
   margin: 0 auto;
   line-height: 80px;
 }
-} */
+} 
 
 
 
-/* @media (min-width: 768 px) {
+@media (min-width: 768px) and (max-width :960px){ 
   
-} */
+ 
 *{
   box-sizing: border-box;
 }
@@ -84,4 +85,5 @@ footer{
 .con-pc{
   float:left ;
   width:760px
+}
 }
