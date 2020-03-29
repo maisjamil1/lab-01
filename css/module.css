@@ -1,0 +1,29 @@
+.borders{
+  border-left:1px solid black ;
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+}
+.divborder{
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+}
+
+.d1,.d2,.d3,.d4{
+  width: 240px;
+  height:250px;
+  margin: 0 auto;
+  line-height: 250px;
+}
+.float-left{
+  float: left;
+}
+
+.clear{
+  clear: both;
+  display: block;
+}
+.con{
+  width: 480px;
+  margin: 0 auto;
+
+}

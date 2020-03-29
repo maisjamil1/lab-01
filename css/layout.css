@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  width: 480px;
+  height:75px;
+  margin: 0 auto;
+  line-height: 75px;  
+}
+
+article{
+  width: 480px;
+  height:150px;
+  margin: 0 auto;
+  line-height: 150px;
+}
+
+section{
+  width: 480px;
+  height:125px;
+  margin: 0 auto;
+  line-height: 125px;
+ 
+}
+
+
+footer{
+  width: 480px;
+  height:80px;
+  margin: 0 auto;
+  line-height: 80px;
+}
