@@ -1,0 +1,69 @@
+header{
+  width: 480px;
+  height:75px;
+  background-color: rgb(42, 165, 73);
+  margin: 0 auto;
+  text-align: center;
+  line-height: 75px;
+  border:1px solid black ;
+    
+}
+
+article{
+  width: 480px;
+  height:150px;
+  background-color: rgb(165, 142, 42);
+  margin: 0 auto;
+  text-align: center;
+  line-height: 150px;
+ 
+}
+.borders{
+  border-left:1px solid black ;
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+}
+.divborder{
+  border-right:1px solid black ;
+  border-bottom:1px solid black ;
+}
+
+section{
+  width: 480px;
+  height:125px;
+  background-color: brown;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 125px;
+ 
+}
+
+.d1,.d2,.d3,.d4{
+  width: 240px;
+  height:250px;
+  background-color: rgb(102, 101, 101);
+  margin: 0 auto;
+  text-align: center;
+  line-height: 250px;
+ 
+}
+.float-left{
+  float: left;
+}
+
+.clear{
+  clear: both;
+  display: block;
+}
+.con{
+  
+}
+footer{
+  width: 480px;
+  height:80px;
+  background-color: rgb(10, 255, 161);
+  margin: 0 auto;
+  text-align: center;
+  line-height: 125px;
+
+}
