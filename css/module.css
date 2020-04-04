@@ -1,4 +1,14 @@
  @media (max-width: 767px){ 
+
+  .con{
+    width: 480px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+  
+  } 
+
+
 .borders{
   border-left:1px solid black ;
   border-right:1px solid black ;
@@ -10,24 +20,20 @@
 }
 
 .d1,.d2,.d3,.d4{
-  width: 240px;
+  width: 240vh;
   height:250px;
   margin: 0 auto;
   line-height: 250px;
 }
-.float-left{
+/* .float-left{
   float: left;
 }
   
 .clear{
   clear: both;
   display: block;
-}
-.con{
-  width: 480px;
-  margin: 0 auto;
+} */
 
-} 
 } 
 
 
@@ -37,9 +43,7 @@
   
 
 
-.float-desktop{
-  float: left;
-}
+
 
 /* .cleardesktop{
   clear: both;
@@ -50,6 +54,9 @@
   margin: 0 auto;
 
 } 
+.float-desktop{
+  float: left;
+}
 /* .borders{
   border-left:1px solid black ;
   border-right:1px solid black ;
