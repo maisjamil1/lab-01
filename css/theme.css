@@ -38,28 +38,44 @@ footer{
   
 
 header{
-  background-color: rgb(77, 77, 77);
+  background-color: rgb(122, 157, 255);
   text-align: center;
   border:1px solid black ;
 }
 
 article{
-  background-color: rgb(98, 98, 98);
+  background-color: rgb(160, 185, 255);
   text-align: center;
 }
 section{
-  background-color: rgb(116, 116, 116);
+  background-color:rgb(196, 211, 253);
  text-align: center; 
 }
 
 footer{
-  background-color: rgb(155, 155, 155);
+  background-color: rgb(229, 235, 253);
   text-align: center;
 }
 
 .d1,.d2,.d3,.d4{
-  background-color: rgb(136, 136, 136);
+  background-color: rgb(253, 213, 213);
    text-align: center;
+
+}
+.c1{
+  background-color: rgb(253, 99, 176);
+
+}
+.c2{
+  background-color: rgb(255, 132, 194);
+
+}
+.c3{
+  background-color: rgb(255, 121, 188);
+
+}
+.c4{
+  background-color: rgb(255, 194, 224);
 
 }
 }
